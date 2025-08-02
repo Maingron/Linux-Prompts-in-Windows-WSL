@@ -10,3 +10,6 @@ Basically you're just calling an alias that routes whatever through WSL, as long
 
 ## Known Issues
 - WSL can't access VeraCrypt drives by default
+
+## Contribute
+Feel free to fork the repo and to create a merge request for commands you'd like to have in here!
