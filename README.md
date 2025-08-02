@@ -13,3 +13,8 @@ Basically you're just calling an alias that routes whatever through WSL, as long
 
 ## Contribute
 Feel free to fork the repo and to create a merge request for commands you'd like to have in here!
+
+## How to install WSL
+You need to be using Windows 10 or Windows 11.
+If you're lucky, you just have to run `wsl --install`. You'll also want to grab "Debian" or "Ubuntu" or something from the Microsoft store.
+See https://learn.microsoft.com/windows/wsl/install
