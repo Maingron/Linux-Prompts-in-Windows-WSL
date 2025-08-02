@@ -7,3 +7,6 @@
 
 ## How it works
 Basically you're just calling an alias that routes whatever through WSL, as long as an alias file exists (for example ls.cmd).
+
+## Known Issues
+- WSL can't access VeraCrypt drives by default
