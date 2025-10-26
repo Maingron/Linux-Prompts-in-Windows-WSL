@@ -1,1 +1,0 @@
-To contribute code, try to keep the contents in your cmd file as similar as possible to the already existing files. It should just pass-through the commands as plainly as possible. If possible, add a comment to the file stating which tools are required to use the command.
